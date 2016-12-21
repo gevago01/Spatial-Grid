@@ -16,9 +16,10 @@ A **spatial-grid** is the simplest method index multidimensional points (includi
 ## How to run on Linux
 ```bash
 git clone https://github.com/gevago01/Spatial-Grid
+cd Spatial-Grid
 mkdir build
 cd build
 cmake ..
 make
-./SpatialGrid sample.txt
+./SpatialGrid ../sample.txt
 ```
