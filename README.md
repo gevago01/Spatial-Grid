@@ -20,4 +20,4 @@ mkdir build
 cd build
 cmake ..
 make
-./SpatialGrid sample.txt
+./SpatialGrid sample.txt```
